@@ -1,0 +1,10 @@
+/.ipynb_checkpoints/
+/examples
+/datasets
+/sink.txt
+/tmp.txt
+/some_array.npy
+/array_archive.npz
+/arrays_compressed.npz
+/mydata.csv
+/mydata.sqlite
